@@ -35,7 +35,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eromosele-Dexter)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🤝🏻  Connect with Me
-[![website]([LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) (https://www.linkedin.com/in/dexter-e-a306b51a0)
+<a href="https://www.linkedin.com/in/dexter-e-a306b51a0">
+ <img align="left" alt="Dexter's Linkedln" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
 
 
 
