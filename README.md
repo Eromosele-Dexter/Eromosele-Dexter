@@ -1,7 +1,6 @@
 ### Hi there! I'm Dexter 👋
----
 
-## 👨🏻‍💻  About Me
+## 👨🏻‍💻  About Me:
 
 - 💡  I like to explore new technologies and develop software solutions and quick hacks.
 - 🎓  I'm currently studying Software Engineering at York University in Toronto.
@@ -34,6 +33,11 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eromosele-Dexter)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🤝🏻  Connect with Me
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/dexter-e-a306b51a0)
+
+
 
 <!--
 **Eromosele-Dexter/Eromosele-Dexter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
