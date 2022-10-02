@@ -1,5 +1,6 @@
 ### Hi there! I'm Dexter 👋
 
+
 ## 👨🏻‍💻  About Me:
 
 - 💡  I like to explore new technologies and develop software solutions and quick hacks.
@@ -10,6 +11,7 @@
 - ✉️  You can shoot me an email at dextere2512@gmail.com ! I'll try to respond as soon as I can.
 - 📄  Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!
 - ⚡ Fun fact: I love to draw and play guitar / drums
+
 
 ### 🍿Tech Stack:
 
@@ -34,9 +36,13 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eromosele-Dexter)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🤝🏻  Connect with Me
+
+### 🤝🏻  Connect with Me:
 <a href="https://www.linkedin.com/in/dexter-e-a306b51a0">
  <img align="left" alt="Dexter's Linkedln" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="">
+ <img align="left" alt="Dexter's Discord" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
 
