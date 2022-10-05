@@ -8,7 +8,7 @@
 - 🌱  I'm on track for learning more about Mobile Applications with Swift, Systems Design, and Cloud Architecture.
 - ✍️  In my free time, I cook and watch anime !
 - 💬  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
-- ✉️  You can shoot me an email at dextere2512@gmail.com ! I'll try to respond as soon as I can.
+- ✉️  You can shoot me an email at dextere2512@gmail.com or message me on Linkedin in the link below! I'll try to respond as soon as I can.
 - 📄  Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!
 - ⚡ Fun fact: I love to TECH
 
