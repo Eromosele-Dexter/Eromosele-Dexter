@@ -34,8 +34,6 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eromosele-Dexter)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### 🤝🏻  Connect with Me:
 <a href="https://www.linkedin.com/in/dexter-e-a306b51a0">
