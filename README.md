@@ -4,7 +4,6 @@
 ## 👨🏻‍💻  About Me:
 
 - 💡  I like to explore new technologies and develop software solutions and quick hacks.
-- 🎓  I'm currently studying Software Engineering at York University in Toronto.
 - 🌱  I'm on track for learning more about Mobile Applications with Swift, Systems Design, and Cloud Architecture.
 - ✍️  In my free time, I cook and watch anime !
 - 💬  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
