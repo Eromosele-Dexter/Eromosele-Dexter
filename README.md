@@ -3,14 +3,12 @@
 
 ## 👨🏻‍💻  About Me:
 
-- 💡  I like to explore new technologies and develop software solutions and quick hacks.
-- 🌱  I'm on track for learning more about Mobile Applications with Swift, Systems Design, and Cloud Architecture.
-- ✍️  In my free time, I cook and watch anime !
-- 💬  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
-- ✉️  You can shoot me an email at dextere2512@gmail.com or message me on Linkedin in the link below! I'll try to respond as soon as I can.
-- 📄  Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!
-- ⚡ Fun fact: I love to TECH
-
+- 💡 I’m passionate about building scalable solutions, designing robust multi-tenant systems, and exploring new tech to solve real-world challenges.
+- 🌱 Currently leveling up my skills in Mobile Development with Swift, advanced System Design, and Cloud Architecture.
+- ✍️ When I'm not coding, you'll find me experimenting in the kitchen 🍳 or catching up on the latest anime series 📺!
+- 💬 Always open for pro bono consulting, collaboration, volunteering, or just some insightful tech conversations.
+- ✉️ Reach out via email at dextere2512@gmail.com or message me on LinkedIn—I’ll get back to you as soon as I can.
+- ⚡ Fun fact: I’m fueled by curiosity and a love for all things TECH!
 
 ### 🍿Tech Stack:
 
@@ -29,23 +27,5 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-
-
-
-
-
-### 🤝🏻  Connect with Me:
-<a href="https://www.linkedin.com/in/dexter-e-a306b51a0">
- <img align="left" alt="Dexter's Linkedln" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="">
- <img align="left" alt="Dexter's Discord" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-
-
-
-
-<!--
-**Eromosele-Dexter/Eromosele-Dexter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
